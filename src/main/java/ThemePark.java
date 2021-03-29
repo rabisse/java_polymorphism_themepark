@@ -29,5 +29,4 @@ public class ThemePark {
         visitor.addVisitedAttraction(attraction);
     }
 
-
 }
